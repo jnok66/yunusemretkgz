@@ -10,5 +10,5 @@ Just do it
 </p>
 <p align="center">
   <h1>Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=5elenay&count_private=false&show_icons=true&theme=dark&hide_border=false" width="%100" height="250px" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yunusemretkgz&count_private=false&show_icons=true&theme=dark&hide_border=false" width="%100" height="250px" alt="stats" />
 </p>
