@@ -5,8 +5,8 @@ Just do it
 
 <p align="center">
   <h1>Profiles</h1>
-  <a href="https://discord.com/users/793467584820281346" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/5elenay" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://discord.com/users/338657065645899778" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/yunusemretkgz" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <p align="center">
   <h1>Stats</h1>
